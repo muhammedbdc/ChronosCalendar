@@ -1,0 +1,8 @@
+{
+  "name": "Chronos",
+  "description": "A futuristic, minimalist calendar app powered by Gemini. Simply type or speak your plans, or scan handwritten notes.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
